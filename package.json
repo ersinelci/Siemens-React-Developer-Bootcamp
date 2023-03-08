@@ -1,0 +1,23 @@
+{
+  "name": "siemens-react-bootcamp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ersinelci/Siemens-React-Developer-Bootcamp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ersinelci/Siemens-React-Developer-Bootcamp/issues"
+  },
+  "homepage": "https://github.com/ersinelci/Siemens-React-Developer-Bootcamp#readme",
+  "dependencies": {
+    "slugify": "^1.6.5"
+  }
+}
